@@ -1,6 +1,6 @@
 
 
-public class Admin1 {
+public class Admin1 {  
     
     public static void Login(){
         System.out.println("Welcome to admin login");
