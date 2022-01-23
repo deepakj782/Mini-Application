@@ -1,13 +1,13 @@
 import java.util.*;
 public class Main1 {
-
+                      
     static ArrayList<Merchant1> merchants=new ArrayList<>();
     static Scanner sc;
     static int a;
     static String name,password;    
 
    
-    public static void home(){
+    public static void home(){  
         
         int a=0;
         sc=new Scanner(System.in);
